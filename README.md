@@ -14,3 +14,12 @@ https://repo1.maven.org/maven2/.m2e/connectors/m2eclipse-egit/0.15.1/N/0.15.1.20
 
 # PMD Eclipse 
 https://dl.bintray.com/pmd/pmd-eclipse-plugin/updates/
+
+# PMD 룰셋
+## 룰셋 정리 파일
+https://drive.google.com/file/d/0BzSIXuR00tBNcDdESy1BM2pMWWs/view?usp=sharing
+
+## 룰셋 파일
+https://drive.google.com/file/d/0BzSIXuR00tBNeURsa2tGbXpnMTA/view?usp=sharing
+
+*주의하세요! 이전 버전의 파일입니다. 참고용으로 사용하시기 바랍니다.
