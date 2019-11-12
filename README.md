@@ -23,3 +23,6 @@ https://drive.google.com/file/d/0BzSIXuR00tBNcDdESy1BM2pMWWs/view?usp=sharing
 https://drive.google.com/file/d/0BzSIXuR00tBNeURsa2tGbXpnMTA/view?usp=sharing
 
 *주의하세요! 이전 버전의 파일입니다. 참고용으로 사용하시기 바랍니다.
+
+# DevOps Korea 2019 밋업 자료 (기능안전 임베디드 SW 개발의 지속적 통합 적용 사례)
+https://drive.google.com/file/d/1SNeGIMIUJ4trkhfI5mVK5LqNqjQ7-dZh/view
