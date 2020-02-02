@@ -1,4 +1,6 @@
-# etri1
+# Bitnami Redmine 4.0.5-6 설치
+https://downloads.bitnami.com/files/stacks/redmine/4.0.5-6/bitnami-redmine-4.0.5-6-windows-x64-installer.exe
+
 
 # Maven
 mvn archetype:generate -DgroupId=kr.godev.opensource -DartifactId=my_project -DinteractiveMode=false
